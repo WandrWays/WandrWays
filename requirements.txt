@@ -2,5 +2,6 @@ streamlit
 deep-translator
 geopy
 pandas
-
+gspread
+google-auth
 streamlit-authenticator
