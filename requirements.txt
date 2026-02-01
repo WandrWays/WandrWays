@@ -2,3 +2,5 @@ streamlit
 deep-translator
 geopy
 pandas
+
+streamlit-authenticator
